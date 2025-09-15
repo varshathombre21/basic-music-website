@@ -6,3 +6,4 @@
 ![image alt](https://github.com/varshathombre21/basic-music-website/blob/main/attention.png?raw=true)
 ![image alt](https://github.com/varshathombre21/basic-music-website/blob/main/attention%20linked.png?raw=true)
 ![image alt](https://github.com/varshathombre21/basic-music-website/blob/main/about%20us.png?raw=true)
+![image alt](https://github.com/varshathombre21/basic-music-website/blob/main/more%20about%20us.png?raw=true)
