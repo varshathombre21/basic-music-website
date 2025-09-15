@@ -1,3 +1,4 @@
 ![image alt](https://github.com/varshathombre21/basic-music-website/blob/main/home%20pg.png?raw=true)
 ![image alt](https://github.com/varshathombre21/basic-music-website/blob/main/library.png?raw=true)
 ![image alt](https://github.com/varshathombre21/basic-music-website/blob/main/singles%20first%20half.png?raw=true)
+![image alt](https://github.com/varshathombre21/basic-music-website/blob/main/singles%20second%20half.png?raw=true)
